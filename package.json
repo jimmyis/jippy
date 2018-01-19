@@ -1,0 +1,19 @@
+{
+  "name": "jippy",
+  "version": "0.0.1",
+  "description": "Jippy is a social network service.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyis/jippy.git"
+  },
+  "author": "jimmyis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyis/jippy/issues"
+  },
+  "homepage": "https://github.com/jimmyis/jippy#readme"
+}
